@@ -84,23 +84,24 @@ Passionate **Full-Stack Developer** and **IT Infrastructure Specialist** with a 
   </tr>
 </table>
 
+<br>
 
 ## 💼 Expertise Areas 【専門分野】
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px" style="border-radius: 10px; border: 2px solid #8B0000;"/><br>
+      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="180" /><br><br>
       <b>🌐 Network Engineering</b><br>
       <sub>TCP/IP, DNS, DHCP, VPN, Firewall Configuration</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200px" style="border-radius: 10px; border: 2px solid #8B0000;"/><br>
+      <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="180" /><br><br>
       <b>🖥️ Server Administration</b><br>
       <sub>Linux, Apache, Nginx, MySQL, Server Config</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" style="border-radius: 10px; border: 2px solid #8B0000;"/><br>
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="180" /><br><br>
       <b>💻 Software Development</b><br>
       <sub>Full-Stack, Mobile Apps, Game Development</sub>
     </td>
@@ -146,9 +147,11 @@ Passionate **Full-Stack Developer** and **IT Infrastructure Specialist** with a 
 
 ## 📈 Activity Overview
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalGamerz&theme=dark&background=000000&ring=DC143C&fire=8B0000&currStreakLabel=DC143C&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=8B0000" alt="GitHub Streak"/>
-</div>
+<img
+  src="https://streak-stats.demolab.com?user=MalGamerz&theme=dark&background=000000&border=8B0000&ring=DC143C&fire=8B0000&currStreakLabel=DC143C"
+  alt="GitHub Streak"
+  width="100%"
+/>
 
 <br>
 
