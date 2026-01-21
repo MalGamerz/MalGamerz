@@ -1,113 +1,114 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&text=MalGamerz&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20|%20Anime%20Enthusiast&descAlignY=60&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=300&section=header&text=MalGamerz&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header" />
 </div>
 
-## 👨‍💻 About Me
-
-<img align="right" src="https://media.tenor.com/r1lySbqEInYAAAAC/toga-himiko.gif" width="230px" style="border-radius: 10px; margin-left: 20px;" alt="Toga Himiko"/>
-
-- 🔭 I'm currently working on exciting game development projects
-- 🌱 I'm continuously learning new programming languages and frameworks
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about gaming, programming, or tech in general
-- ⚡ Fun fact: I love to play video games when I'm not coding!
-- 🩸 Favorite anime character: Toga Himiko from My Hero Academia
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F75D7E&center=true&vCenter=true&width=500&lines=Always+learning+new+things;Passionate+about+code+and+anime" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Developer+%7C+Gamer+%7C+Creator;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
 </div>
 
-## 🛠️ Technologies & Tools
+<br>
+
+## About Me
+
+<img align="right" src="https://media.tenor.com/r1lySbqEInYAAAAC/toga-himiko.gif" width="280px" style="border-radius: 10px;" alt="Toga Himiko"/>
+
+Currently working on exciting game development projects and continuously expanding my technical skill set. I'm passionate about creating immersive experiences through code and always looking for opportunities to collaborate on innovative projects.
+
+**Current Focus:**
+- 🎮 Game Development & Interactive Experiences
+- 💻 Full-Stack Web Development
+- 🔧 Learning New Technologies & Frameworks
+- 🎯 Seeking Internship Opportunities
+
+<br clear="right"/>
+
+<br>
+
+## Tech Stack
 
 <div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+</div>
+
+<br>
+
+## GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MalGamerz&show_icons=true&theme=dark&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=000000&border_color=1a1a1a&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
   
-  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F75D7E)
-  ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=F75D7E)
-  ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=F75D7E)
-  ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=F75D7E)
-  ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F75D7E)
-  ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=F75D7E)
-  ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=F75D7E)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalGamerz&layout=compact&theme=dark&title_color=DC143C&text_color=ffffff&bg_color=000000&border_color=1a1a1a&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400px" style="border-radius: 10px;" alt="Animation"/>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/MalGamerz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalGamerz&show_icons=true&theme=radical&title_color=F75D7E&border_color=F75D7E&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/MalGamerz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalGamerz&layout=compact&theme=radical&title_color=F75D7E&border_color=F75D7E"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalGamerz&custom_title=Contribution%20Activity&bg_color=000000&color=ffffff&line=DC143C&point=ffffff&area_color=DC143C&area=true&hide_border=false&border_color=1a1a1a" alt="Contribution Graph"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalGamerz&theme=react-dark&bg_color=20232a&hide_border=false&color=F75D7E&line=F75D7E&point=FFFFFF" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalGamerz&theme=github_dark" alt="Profile Summary"/>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MalGamerz&theme=radical&title_color=F75D7E&border_color=F75D7E" alt="Wakatime Stats"/>
-</div>
+## Current Projects & Interests
 
-## ✨ Recent Activity
-
-Searching for an internship
-
-## 🎮 When I'm Not Coding...
-
-<table align="center" style="border-collapse: separate; border-spacing: 10px;">
+<table align="center">
   <tr>
-    <th>🎮 Playing games like:</th>
-    <th>📺 Reading manga like:</th>
-    <th>🌟 Learning about:</th>
+    <th>Gaming</th>
+    <th>Reading</th>
+    <th>Learning</th>
   </tr>
   <tr>
-    <td>RDR2</td>
-    <td>Sakamoto</td>
-    <td>How to be alive</td>
+    <td>Red Dead Redemption 2</td>
+    <td>Sakamoto Days</td>
+    <td>Advanced Game Dev</td>
   </tr>
   <tr>
-    <td>GTA V</td>
+    <td>Grand Theft Auto V</td>
     <td>The Greatest Estate Developer</td>
-    <td>Game Development</td>
+    <td>System Architecture</td>
   </tr>
   <tr>
-    <td>TLOU</td>
+    <td>The Last of Us</td>
     <td>Mairimashita! Iruma-kun</td>
-    <td>Programming stuff</td>
+    <td>Modern Web Technologies</td>
   </tr>
 </table>
 
+<br>
+
 <div align="center">
-  <img src="https://media.tenor.com/zio7E5pDXwMAAAAM/toga-himiko.gif" width="300px" style="border-radius: 10px;" alt="Toga Dancing"/>
-  <br>
+  <img src="https://media.tenor.com/zio7E5pDXwMAAAAM/toga-himiko.gif" width="320px" style="border-radius: 10px;" alt="Toga Himiko"/>
 </div>
 
 <br>
 
+## Support
+
 <div align="center">
-  <h3>Support:</h3>
   <a href="https://www.buymeacoffee.com/malgamerz"> 
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/malgamerz" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" alt="Buy Me A Coffee" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MalGamerz&label=Profile%20Visits&color=F75D7E&style=for-the-badge" alt="MalGamerz" />
+  <img src="https://komarev.com/ghpvc/?username=MalGamerz&label=Profile%20Views&color=dc143c&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
@@ -118,6 +119,8 @@ Searching for an internship
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake2.svg">
 </picture>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=120&section=footer" alt="Footer" />
 </div>
