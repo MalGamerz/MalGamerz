@@ -68,15 +68,15 @@ Passionate **Full-Stack Developer** and **IT Infrastructure Specialist** with a 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MalGamerz&show_icons=true&theme=dark&title_color=DC143C&icon_color=8B0000&text_color=ffffff&bg_color=000000&border_color=8B0000&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalGamerz&show_icons=true&theme=dark&title_color=DC143C&icon_color=8B0000&text_color=ffffff&bg_color=000000&border_color=8B0000&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalGamerz&layout=compact&theme=dark&title_color=DC143C&text_color=ffffff&bg_color=000000&border_color=8B0000&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalGamerz&layout=compact&theme=dark&title_color=DC143C&text_color=ffffff&bg_color=000000&border_color=8B0000&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalGamerz&custom_title=Contribution%20Activity%20%E3%83%BB%20%E8%B2%A2%E7%8C%AE&bg_color=000000&color=ffffff&line=DC143C&point=ffffff&area_color=8B0000&area=true&hide_border=false&border_color=8B0000" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MalGamerz&custom_title=Contribution%20Activity%20%E3%83%BB%20%E8%B2%A2%E7%8C%AE&bg_color=000000&color=ffffff&line=DC143C&point=ffffff&area_color=8B0000&area=true&hide_border=false&border_color=8B0000" alt="Contribution Graph"/>
 </div>
 
 <br>
