@@ -52,13 +52,13 @@
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?user=MalGamerz&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalGamerz&theme=react-dark&bg_color=20232a&hide_border=false&color=F75D7E&line=F75D7E&point=FFFFFF" alt="GitHub Activity Graph"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MalGamerz&theme=radical&hide_border=false&stroke=F75D7E&ring=F75D7E&fire=F75D7E" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MalGamerz&theme=radical&title_color=F75D7E&border_color=F75D7E" alt="Wakatime Stats"/>
 </div>
 
 ## ✨ Recent Activity
@@ -113,9 +113,9 @@ Searching for an internship
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake2.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake2.svg">
 </picture>
 
 <div align="center">
